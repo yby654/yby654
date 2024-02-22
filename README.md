@@ -22,10 +22,11 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
+    <div style="text-align: left;"> <a href=https://velog.io/@yby654/> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@yby654/"> </a>
+         <a href=https://www.notion.so/yby654/Hello-I-m-Yby654-ed3fda768fa94c5a86789ba1e0f41233?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/yby654/Hello-I-m-Yby654-ed3fda768fa94c5a86789ba1e0f41233?pvs=4"> </a>
+         <a href=mailto:yby654321@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yby654321@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
